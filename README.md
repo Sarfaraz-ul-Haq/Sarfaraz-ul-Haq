@@ -6,6 +6,12 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
+##  Learning
+
+* **React**  [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)
+* **Next.js** [![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/original.svg)](https://nextjs.org/)
+* **Tailwind CSS** [![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/original.svg)](https://tailwindcss.com/)
+
 
 
 
