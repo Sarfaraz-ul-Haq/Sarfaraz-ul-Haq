@@ -6,12 +6,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-### Learning
+## Learning
 
-* **[Language 1]**  [![Language 1 Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/[language_1]/[language_1]-original.svg)](https://[language_1_documentation_url])
-* **[Language 2]**  [![Language 2 Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/[language_2]/[language_2]-original.svg)](https://[language_2_documentation_url])
-* **[Language 3]**  [![Language 3 Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/[language_3]/[language_3]-original.svg)](https://[language_3_documentation_url])
-
+* **React**  <img src="https://reactsvgicons.com/" alt="React Icon" width="30" height="30">
+* **Next.js** <img src="https://levelup.gitconnected.com/how-to-use-svg-icons-in-a-next-js-project-f6f8256f9e12" alt="Next.js Icon" width="30" height="30">
+* **Tailwind CSS** <img src="https://flowbite.com/docs/customize/icons/" alt="Tailwind CSS Icon" width="30" height="30">
 
 
 
