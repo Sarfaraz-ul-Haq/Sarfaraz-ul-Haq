@@ -1,4 +1,4 @@
-## Hi there , I'm [Your Name]!
+## Hi there , I'm Sarfaraz!
 
 I'm a Modern Front-End Developer. I'm passionate about Metaverse, Cloud Native and Generative AI technology.
 
