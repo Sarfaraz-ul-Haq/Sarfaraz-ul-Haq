@@ -1,6 +1,8 @@
-## Languages and Tools
+## Hi there , I'm [Your Name]!
 
-**This project uses the following technologies:**
+I'm a Modern Front-End Developer. I'm passionate about Metaverse, Cloud Native and Generative AI technology.
+
+**Languages and Tools:**
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -11,26 +13,11 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <svg width="40" height="40">
-      </svg>
+      <path d="..." fill="#F7DF1E" /> </svg>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <svg width="40" height="40">
-      </svg>
+      <path d="..." fill="#2B7489" /> </svg>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <svg width="40" height="40">
-      </svg>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <svg width="40" height="40">
-      </svg>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <svg width="40" height="40">
-      </svg>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <svg width="40" height="40">
-      </svg>
-  </a>
-</p>
+  </p>
+
