@@ -13,11 +13,14 @@ I'm a Modern Front-End Developer. I'm passionate about Metaverse, Cloud Native a
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <svg width="40" height="40">
-      <path d="..." fill="#F7DF1E" /> </svg>
+      <path d="M16 8l-6 6v-2l-6-6v2l6-6 6 6zM2 4l14 14-14 14V4z" fill="#F7DF1E" />
+    </svg>
   </a>
+
   <a href="https://www.typescriptlang.org/" target="_blank">
     <svg width="40" height="40">
-      <path d="..." fill="#2B7489" /> </svg>
+      <path d="M26.77 3.87a1 1 0 10-1.41 1.41L18.6 18.13l8.16-8.16a1 1 0 10-1.41-1.41zM13.47 4.14a1 1 0 00-1.41 1.41L5.3 18.86l8.16-8.16a1 1 0 00-1.41-1.41zM0 0v40h40V0z" fill="#2B7489" />
+    </svg>
   </a>
   </p>
 
