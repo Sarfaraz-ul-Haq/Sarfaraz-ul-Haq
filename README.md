@@ -1,7 +1,5 @@
 ## Hi there , I'm Sarfaraz!
 
-I'm a Next.js Front-End Developer. I'm passionate about Metaverse, Cloud Native and Generative AI technology.
-
 **Languages and Tools:**
 
 <p align="left">
