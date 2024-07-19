@@ -1,7 +1,5 @@
 ## Hi there , I'm Sarfaraz!
 
-learning python right now
-
 **Languages and Tools:**
 
 <p align="left">
