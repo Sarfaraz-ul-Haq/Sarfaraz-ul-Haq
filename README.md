@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarfaraz ul Haq</h1>
 <h3 align="center">A passionate student at Panaverse Cloud Native Applied Generative AI Engineering</h3>
 
-- 🌱 I’m currently learning **Frontend Development, Python**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
