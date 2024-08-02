@@ -2,7 +2,6 @@
 
 ### Panaversity Cloud Applied Generative AI Engineering (student)
 
-* 👨‍💻 Developing Custom GPTs and Multi AI Agent Systems
 * 🤝  Gen AI and Metaverse Enthusiast
 * 🌍  Based in Pakistan 🇵🇰
 * 🧠  Learning at Panaversity to build intelligent systems for a better tomorrow.
