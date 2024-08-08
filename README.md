@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sarfaraz ul Haq
 
-### Panaversity Cloud Applied Generative AI Engineering (student)
+### Panaversity Cloud Native Applied Generative AI Engineering 
 
 * 🤝  Gen AI and Metaverse Enthusiast
 * 🌍  Based in Pakistan 🇵🇰
