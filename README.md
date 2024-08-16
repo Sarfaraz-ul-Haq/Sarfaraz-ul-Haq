@@ -9,10 +9,10 @@
 ### Skills
 
 <p align="left">
- <!-- ChatGPT -->
-<a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chatgpt-colored.svg" width="36" height="36" alt="ChatGPT" />
+ <a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer">
+  <img src="https://example.com/path-to-your-icon/chatgpt-icon.svg" width="36" height="36" alt="ChatGPT" />
 </a>
+
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
