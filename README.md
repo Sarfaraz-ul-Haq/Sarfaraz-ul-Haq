@@ -9,9 +9,11 @@
 ### Skills
 
 <p align="left">
- <a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer">
-  <img src="https://example.com/path-to-your-icon/chatgpt-icon.svg" width="36" height="36" alt="ChatGPT" />
+ <!-- ChatGPT -->
+<a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="36" height="36" alt="ChatGPT" />
 </a>
+
 
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
