@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sarfaraz ul Haq
 
-### Enrolled in Cloud Native Applied Generative AI Engineering (GenEng) program
+### Enrolled in Cloud Native Applied Generative AI Engineering program
 
 * 🤝  Gen AI and Metaverse Enthusiast
 * 🌍  Based in Pakistan 🇵🇰
