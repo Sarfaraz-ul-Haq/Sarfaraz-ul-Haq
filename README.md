@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Sarfaraz ul Haq
 
-### Enrolled in Panaversity Cloud Native Applied Generative and Agentic AI Engineer program
+### Panaversity Cloud Native Applied Generative and Agentic AI Engineering
 
 * 🤝  Gen AI and Metaverse Enthusiast
 * 🌍  Based in Pakistan 🇵🇰
-* 🧠  Learning at PIAIC / Panaversity to build intelligent systems for a better tomorrow.
+* 🧠  Learning at PIAIC / Panaversity to build intelligent agentic systems for a better tomorrow.
 
 ### Skills
 
