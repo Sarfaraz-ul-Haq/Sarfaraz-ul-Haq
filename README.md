@@ -2,8 +2,7 @@
 
 ### Panaversity - Agentic and Robotic AI Engineering
 
-* 🤝  Generative AI and Metaverse Enthusiast
-* 🌍  Based in Pakistan 🇵🇰
+* 🌍  Based in Pakistan
 * 🧠  Learning at Panaversity | PIAIC to build agentic systems for a better tomorrow.
 
 ### Skills
